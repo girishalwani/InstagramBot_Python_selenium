@@ -16,4 +16,4 @@ however the basic functionalities are implemented.
 
 use command
 
-"python -i bot.py"  to run in interactive mode.
+''' python -i bot.py ''' to run in interactive mode.
