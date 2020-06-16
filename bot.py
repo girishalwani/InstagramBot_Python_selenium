@@ -1,6 +1,6 @@
 from selenium import webdriver
 from time import sleep
-from password import pw
+#from password import pw
 
 class InstagramBot:
 
